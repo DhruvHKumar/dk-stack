@@ -35,6 +35,13 @@ Use my SKILL.md files that I use on the regular.
 - `agent-building/` — small loops, least-privilege tools, verify-everything
 - `evals/` — golden sets, deterministic scorers, baseline gating
 - `agent-behaviour/` — warm, trustworthy persona without sycophancy
+- `context-management/` — window discipline, compaction, MEMORY.md
+- `tool-design/` — narrow MCP tools models pick correctly
+- `rag-systems/` — hybrid retrieve, rerank, cite-or-abstain
+- `guardrails-safety/` — injection defense, redaction, destructive gates
+- `multi-agent-orchestration/` — fan-out workers, synthesize once
+- `agent-observability/` — run ledgers, cost caps, failure mining
+- `autonomy-gates/` — L0-L3 risk tiers, confirm with undo plans
 
 ### productivity/
 - `technical-writing/` — READMEs, API docs, ADRs, runbooks people read
