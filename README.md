@@ -7,6 +7,7 @@ Use my SKILL.md files that I use on the regular.
 - `deep-research/` — rigorous investigation with source scoring, contradiction mapping, adversarial critique
 - `living-research/` — freshness tracking, decay detection, claim lifecycle
 - `market-intel/` — competitive analysis, moats, positioning, sizing
+- `scientific-research/` — science method on deep-research base, literature search + calculator verification
 - `tech-pulse/` — signal scanning, noise filtering, triage
 - `tech-radar/` — 8-dimension tech evaluation, Adopt/Trial/Assess/Hold
 
@@ -39,3 +40,6 @@ Use my SKILL.md files that I use on the regular.
 - `technical-writing/` — READMEs, API docs, ADRs, runbooks people read
 - `git-workflow/` — conventional commits, atomic changes, PR hygiene
 - `task-breakdown/` — vertical slices, INVEST, acceptance per task
+
+### math/
+- `calculator/` — precise compute, units, stats; backing skill for scientific-research
