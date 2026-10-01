@@ -57,3 +57,33 @@ Use my SKILL.md files that I use on the regular.
 - `linear-algebra/` — shapes-first Ax=b, least-squares, embeddings/PCA notes
 - `financial-math/` — rates+dates+drag, NPV/IRR, TCO comparisons
 - `optimization/` — objective+constraints, trade-offs, sensitivity
+
+### security/
+- `secure-coding/` — OWASP, injection, authz, crypto hygiene
+- `threat-modeling/` — 30-min STRIDE, rank, mitigate with owners
+- `secrets-management/` — vaulting, rotation, leak response
+
+### backend/
+- `api-design/` — REST contracts, versioning, pagination, idempotency
+- `database-design/` — 3NF, constraints, indexing, safe migrations
+- `caching-queues/` — invalidation, TTLs, idempotent workers + DLQ
+
+### frontend/
+- `react-patterns/` — server-first, colocated state, no sync effects
+- `forms-validation/` — schema-first, forgiving inputs, actionable errors
+- `web-performance/` — budgets for LCP/INP/CLS, fix biggest byte first
+
+### product/
+- `prd-writing/` — problem+non-goals+acceptance+rollout
+- `user-stories/` — vertical slices, INVEST, Given/When/Then
+- `analytics/` — taxonomy, North Star, honest experiments
+
+### leadership/
+- `code-ownership/` — SLAs, sustainable on-call, blameless postmortems
+- `hiring/` — rubrics, work samples, structured fairness
+- `1-1s-feedback/` — SBI feedback, report-driven 1-1s
+
+### open-source/
+- `maintaining/` — triage SLAs, semver honesty, kind deprecations
+- `contributing/` — <30min to first green PR, DCO, thank fast
+- `licensing/` — MIT/Apache/GPL picker, compat, SBOM audits
