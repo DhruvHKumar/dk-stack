@@ -33,7 +33,7 @@ Use my SKILL.md files that I use on the regular.
 - `prompt-engineering/` — role/context/task/constraints/schema + few-shot
 - `agent-building/` — small loops, least-privilege tools, verify-everything
 - `evals/` — golden sets, deterministic scorers, baseline gating
-- `endearing-agent/` — warm, trustworthy persona without sycophancy
+- `agent-behaviour/` — warm, trustworthy persona without sycophancy
 
 ### productivity/
 - `technical-writing/` — READMEs, API docs, ADRs, runbooks people read
