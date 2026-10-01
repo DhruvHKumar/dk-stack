@@ -43,3 +43,10 @@ Use my SKILL.md files that I use on the regular.
 
 ### math/
 - `calculator/` — precise compute, units, stats; backing skill for scientific-research
+- `statistics/` — tests, CIs, power, corrections; no p without effect+CI
+- `probability/` — Bayes, distributions, EV, base-rate discipline
+- `data-analysis/` — clean→validate→explore with join hygiene
+- `algebra/` — step-showing solves, verified by substitution
+- `linear-algebra/` — shapes-first Ax=b, least-squares, embeddings/PCA notes
+- `financial-math/` — rates+dates+drag, NPV/IRR, TCO comparisons
+- `optimization/` — objective+constraints, trade-offs, sensitivity
